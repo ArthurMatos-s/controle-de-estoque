@@ -1,6 +1,6 @@
 # Controle de Estoque
 
-Meu primeiro aplicativo desenvolvido em Python com Streamlit.
+Meu primeiro projeto desenvolvido em Python com Streamlit.
 
 ## Funcionalidades
 - Cadastro de produtos
